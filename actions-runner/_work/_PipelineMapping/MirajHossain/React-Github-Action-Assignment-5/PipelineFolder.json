@@ -1,0 +1,12 @@
+﻿{
+  "repositoryName": "MirajHossain/React-Github-Action-Assignment-5",
+  "pipelineDirectory": "React-Github-Action-Assignment-5",
+  "workspaceDirectory": "React-Github-Action-Assignment-5\\React-Github-Action-Assignment-5",
+  "repositories": {
+    "MirajHossain/React-Github-Action-Assignment-5": {
+      "repositoryPath": "React-Github-Action-Assignment-5\\React-Github-Action-Assignment-5",
+      "lastRunOn": "05/12/2026 14:42:12 +06:00"
+    }
+  },
+  "lastRunOn": "05/12/2026 14:42:12 +06:00"
+}
