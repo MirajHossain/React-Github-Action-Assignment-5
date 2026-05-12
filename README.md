@@ -18,6 +18,6 @@ A self-hosted runner is a machine managed by the developer that executes GitHub 
 6. React application builds successfully
 
 ## Screenshots
-1. Successful ci pipeline execution screenshot
+1. Successful & failed ci pipeline execution screenshot
    <img width="1204" height="680" alt="WhatsApp Image 2026-05-12 at 3 33 34 PM" src="https://github.com/user-attachments/assets/a6fbb10f-3255-4d10-aab6-490f2cbb15a0" />
 
