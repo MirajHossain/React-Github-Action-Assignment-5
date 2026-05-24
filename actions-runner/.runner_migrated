@@ -1,0 +1,11 @@
+﻿{
+  "agentId": 2,
+  "agentName": "BFL-HO-IT-MUHTA",
+  "poolId": 1,
+  "poolName": "Default",
+  "serverUrl": "https://pipelinesghubeus26.actions.githubusercontent.com/mvWrOSAkfBLtkflohW8By7EG8Ci1M1p2E8V7o90VvYFs6vNETh/",
+  "gitHubUrl": "https://github.com/MirajHossain/React-Github-Action-Assignment-5",
+  "workFolder": "_work",
+  "useV2Flow": true,
+  "serverUrlV2": "https://broker.actions.githubusercontent.com/"
+}
